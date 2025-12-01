@@ -6,7 +6,7 @@
 #include "case_manager.h"
 #include "database.h"
 #include "utils.h"
- 
+//  ubah dari laptop nazwa
 int main () {
 
     printf ("tes");
