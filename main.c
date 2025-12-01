@@ -1,9 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-int main(){
+#include "auth.h"
+#include "case_manager.h"
+#include "database.h"
+#include "utils.h"
+ 
+int main () {
 
-    printf("hello tubes saya");
-
-    return 0;
-
+    printf ("tes");
 }
